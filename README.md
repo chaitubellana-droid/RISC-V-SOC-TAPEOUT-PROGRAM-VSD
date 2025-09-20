@@ -31,6 +31,8 @@ $ sudo make install
      $ sudo apt-get install make
      $ sudo make install
 ```
+<img width="685" height="229" alt="image" src="https://github.com/user-attachments/assets/4c2227fa-8198-428e-95e5-8d32f07169dd" />
+
 # GTKWAVE
 ```bash
     $cd
