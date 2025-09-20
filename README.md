@@ -38,6 +38,5 @@ $ sudo make install
     $cd
     $sudo apt install gtkwave
 ```
-
-
+<img src="https://github.com/chaitubellana-droid/RISC-V-SOC-TAPEOUT-PROGRAM-VSD/blob/main/gtk.png?raw=true">
 
