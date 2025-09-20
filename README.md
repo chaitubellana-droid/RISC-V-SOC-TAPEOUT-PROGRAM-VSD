@@ -17,9 +17,25 @@ $ make -j$(nproc)
 $ sudo make install
 ```
 
-<img  src="https://github.com/chaitubellana-droid/RISC-V-SOC-TAPEOUT-PROGRAM-VSD/blob/2e19a0c7c280f0335755227fa8ef152c60ef6fa2/scre.jpg" width="786" height="470" alt="image" />
+<img  src="https://github.com/chaitubellana-droid/RISC-V-SOC-TAPEOUT-PROGRAM-VSD/blob/2e19a0c7c280f0335755227fa8ef152c60ef6fa2/scre.jpg" width="400" height="270" alt="image" />
 
-
+# iverilog
+```bash
+     $ sudo apt-get update
+     $ sudo apt-get install gpref
+     $ sudo apt-get install autoconf
+     $./configure
+     $ sudo apt-get install gcc g++
+     $ sudo apt-get install bison
+     $ make
+     $ sudo apt-get install make
+     $ sudo make install
+```
+# GTKWAVE
+```bash
+    $cd
+    $sudo apt install gtkwave
+```
 
 
 
