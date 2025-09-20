@@ -13,7 +13,7 @@ $ git clone https://github.com/YosysHQ/yosys.git
 $ cd yosys
 $ make -j$(nproc)
 $ sudo make install
-![image alt](https://github.com/chaitubellana-droid/RISC-V-SOC-TAPEOUT-PROGRAM-VSD/blob/main/Screenshot%20from%202025-09-20%2013-00-01.png?raw=true)
+![Daigram](https://github.com/chaitubellana-droid/RISC-V-SOC-TAPEOUT-PROGRAM-VSD/blob/main/Screenshot%20from%202025-09-20%2013-00-01.png?raw=true)
 
 
 
