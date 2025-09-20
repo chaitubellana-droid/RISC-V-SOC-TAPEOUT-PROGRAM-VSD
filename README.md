@@ -16,6 +16,7 @@ $ sudo make install
 
 
 <img  src="https://github.com/chaitubellana-droid/RISC-V-SOC-TAPEOUT-PROGRAM-VSD/blob/main/screenshot.png" width="786" height="470" alt="image">
+<img width="786" height="470" alt="Screenshot from 2025-09-20 13-00-01" src="https://github.com/user-attachments/assets/e824e27f-5b1b-489c-ade1-dd7869ea06db" />
 
 
 
