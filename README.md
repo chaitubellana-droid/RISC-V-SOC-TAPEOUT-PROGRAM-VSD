@@ -15,7 +15,8 @@ $ make -j$(nproc)
 $ sudo make install
 
 
-![image alt](https://github.com/chaitubellana-droid/RISC-V-SOC-TAPEOUT-PROGRAM-VSD/blob/main/Screenshot%20from%202025-09-20%2013-00-01.png?raw=true)
+<img  src="https://github.com/user-attachments/assets/5743fb92-412f-45e0-af9e-2e2a2d776726" width="786" height="470" alt="image">
+
 
 
 
